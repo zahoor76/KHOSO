@@ -1,2 +1,2 @@
-from Set import menu
-menu()
+from Set import superuser
+superuser()
